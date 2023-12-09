@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>car-wbs-KA01CA2555_00000_png.rf.9b48ef185d3f04a70df6d3a217083827.jpg</filename>
+	<path>car-wbs-KA01CA2555_00000_png.rf.9b48ef185d3f04a70df6d3a217083827.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>225</xmin>
+			<xmax>427</xmax>
+			<ymin>122</ymin>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

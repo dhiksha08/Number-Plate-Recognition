@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>319f51dc-9db2-4977-a43d-09561cdd54ab___1415806d1442489743t-raging-red-rover-r3-my-mahindra-scorpio-s10-4x4-nudge-guard-jpg_jpeg.rf.2c6ac33e5755a8589089c575a513791f.jpg</filename>
+	<path>319f51dc-9db2-4977-a43d-09561cdd54ab___1415806d1442489743t-raging-red-rover-r3-my-mahindra-scorpio-s10-4x4-nudge-guard-jpg_jpeg.rf.2c6ac33e5755a8589089c575a513791f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>802</width>
+		<height>615</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>273</xmin>
+			<xmax>511</xmax>
+			<ymin>1</ymin>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

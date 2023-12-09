@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>fb939bb1-5257-4879-bafb-539472ffb73d___Maruti-Suzuki-Brezza-Number-Plates-Design-jpg_jpeg.rf.24b2f4a50825781f81947abb85196395.jpg</filename>
+	<path>fb939bb1-5257-4879-bafb-539472ffb73d___Maruti-Suzuki-Brezza-Number-Plates-Design-jpg_jpeg.rf.24b2f4a50825781f81947abb85196395.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>181</xmin>
+			<xmax>341</xmax>
+			<ymin>206</ymin>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

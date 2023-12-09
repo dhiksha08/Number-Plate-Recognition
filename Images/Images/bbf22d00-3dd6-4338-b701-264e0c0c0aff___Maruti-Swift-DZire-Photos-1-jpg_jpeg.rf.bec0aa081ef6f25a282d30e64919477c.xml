@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bbf22d00-3dd6-4338-b701-264e0c0c0aff___Maruti-Swift-DZire-Photos-1-jpg_jpeg.rf.bec0aa081ef6f25a282d30e64919477c.jpg</filename>
+	<path>bbf22d00-3dd6-4338-b701-264e0c0c0aff___Maruti-Swift-DZire-Photos-1-jpg_jpeg.rf.bec0aa081ef6f25a282d30e64919477c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>591</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>194</xmin>
+			<xmax>385</xmax>
+			<ymin>234</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

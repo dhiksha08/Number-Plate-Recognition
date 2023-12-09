@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07e787a7-6cc3-482c-9ce5-f0ce115b47f1___new_VW-Polo-GT-TSI-badges-on-the-boot-lid-jpg_jpeg.rf.a7ec27ba5d457522cda16474c9d1d095.jpg</filename>
+	<path>07e787a7-6cc3-482c-9ce5-f0ce115b47f1___new_VW-Polo-GT-TSI-badges-on-the-boot-lid-jpg_jpeg.rf.a7ec27ba5d457522cda16474c9d1d095.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>395</width>
+		<height>147</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>335</xmax>
+			<ymin>34</ymin>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

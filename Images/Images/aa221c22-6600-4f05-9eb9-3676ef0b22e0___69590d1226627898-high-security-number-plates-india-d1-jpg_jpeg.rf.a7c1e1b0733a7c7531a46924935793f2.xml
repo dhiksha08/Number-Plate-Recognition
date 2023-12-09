@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>aa221c22-6600-4f05-9eb9-3676ef0b22e0___69590d1226627898-high-security-number-plates-india-d1-jpg_jpeg.rf.a7c1e1b0733a7c7531a46924935793f2.jpg</filename>
+	<path>aa221c22-6600-4f05-9eb9-3676ef0b22e0___69590d1226627898-high-security-number-plates-india-d1-jpg_jpeg.rf.a7c1e1b0733a7c7531a46924935793f2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>160</xmin>
+			<xmax>897</xmax>
+			<ymin>267</ymin>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

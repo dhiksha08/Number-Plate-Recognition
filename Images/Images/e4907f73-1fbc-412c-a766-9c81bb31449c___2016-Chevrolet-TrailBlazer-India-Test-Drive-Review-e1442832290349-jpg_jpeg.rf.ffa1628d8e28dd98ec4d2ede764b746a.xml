@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>e4907f73-1fbc-412c-a766-9c81bb31449c___2016-Chevrolet-TrailBlazer-India-Test-Drive-Review-e1442832290349-jpg_jpeg.rf.ffa1628d8e28dd98ec4d2ede764b746a.jpg</filename>
+	<path>e4907f73-1fbc-412c-a766-9c81bb31449c___2016-Chevrolet-TrailBlazer-India-Test-Drive-Review-e1442832290349-jpg_jpeg.rf.ffa1628d8e28dd98ec4d2ede764b746a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>469</width>
+		<height>436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>178</xmax>
+			<ymin>294</ymin>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

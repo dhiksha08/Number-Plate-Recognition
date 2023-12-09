@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>6254bb73-d8a1-4f04-89a9-92caef98e233___1658240d1500548920-close-look-2017-skoda-octavia-facelift-hands-free-parking-front-bumper-jpg_jpeg.rf.1d3286751af4b49f49469deb0bfbb6be.jpg</filename>
+	<path>6254bb73-d8a1-4f04-89a9-92caef98e233___1658240d1500548920-close-look-2017-skoda-octavia-facelift-hands-free-parking-front-bumper-jpg_jpeg.rf.1d3286751af4b49f49469deb0bfbb6be.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>3720</width>
+		<height>2472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1253</xmin>
+			<xmax>2447</xmax>
+			<ymin>991</ymin>
+			<ymax>1261</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>f9e27b82-9e65-44ba-bf9a-b3ced8901937___Skoda-Superb-Exterior-deadfront-69204-jpg_jpeg.rf.47816cd1fc503cca5612749c432e57dc.jpg</filename>
+	<path>f9e27b82-9e65-44ba-bf9a-b3ced8901937___Skoda-Superb-Exterior-deadfront-69204-jpg_jpeg.rf.47816cd1fc503cca5612749c432e57dc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>203</xmin>
+			<xmax>383</xmax>
+			<ymin>186</ymin>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

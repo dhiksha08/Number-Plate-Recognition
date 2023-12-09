@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>df2f7a76-d701-468f-b54a-c5d63d13b349___CM-Akhilesh-Number-Plate-jpg_jpeg.rf.8bcbe065ede8915cfa818931b5f0e74c.jpg</filename>
+	<path>df2f7a76-d701-468f-b54a-c5d63d13b349___CM-Akhilesh-Number-Plate-jpg_jpeg.rf.8bcbe065ede8915cfa818931b5f0e74c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>303</xmin>
+			<xmax>580</xmax>
+			<ymin>195</ymin>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>69b56ab9-accd-4c67-aa7a-a884c018e5ab___speedex-number-plates-nandanam-chennai-car-number-plate-dealers-3zh7n2s-jpg_jpeg.rf.cd7f4734eb4348c9c7c90e11fa6bab8e.jpg</filename>
+	<path>69b56ab9-accd-4c67-aa7a-a884c018e5ab___speedex-number-plates-nandanam-chennai-car-number-plate-dealers-3zh7n2s-jpg_jpeg.rf.cd7f4734eb4348c9c7c90e11fa6bab8e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>332</xmin>
+			<xmax>608</xmax>
+			<ymin>941</ymin>
+			<ymax>1021</ymax>
+		</bndbox>
+	</object>
+</annotation>

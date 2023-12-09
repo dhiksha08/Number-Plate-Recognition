@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>9ea92991-8fdf-4b46-aea1-bf08ecff247c___new_1107433d1373284570-my-modded-skoda-rapid-now-166-bhp-351-nm-119-whp-per-tonne-hdr_00005_normal-jpg_jpeg.rf.4e20100acb16bd83e3c643ea66116bf8.jpg</filename>
+	<path>9ea92991-8fdf-4b46-aea1-bf08ecff247c___new_1107433d1373284570-my-modded-skoda-rapid-now-166-bhp-351-nm-119-whp-per-tonne-hdr_00005_normal-jpg_jpeg.rf.4e20100acb16bd83e3c643ea66116bf8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>240</xmax>
+			<ymin>229</ymin>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

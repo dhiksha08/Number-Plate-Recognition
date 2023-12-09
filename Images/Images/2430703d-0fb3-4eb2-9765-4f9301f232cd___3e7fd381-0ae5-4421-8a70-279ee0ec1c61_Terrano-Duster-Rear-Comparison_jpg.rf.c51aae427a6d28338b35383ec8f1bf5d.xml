@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2430703d-0fb3-4eb2-9765-4f9301f232cd___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Terrano-Duster-Rear-Comparison_jpg.rf.c51aae427a6d28338b35383ec8f1bf5d.jpg</filename>
+	<path>2430703d-0fb3-4eb2-9765-4f9301f232cd___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Terrano-Duster-Rear-Comparison_jpg.rf.c51aae427a6d28338b35383ec8f1bf5d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1020</width>
+		<height>599</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>635</xmin>
+			<xmax>785</xmax>
+			<ymin>261</ymin>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>658af519-5290-4ae5-8dd6-694bab9aa458___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_848765390_1_1080x720_nissan-terrano-xl-d-plus-2014-diesel-coimbatore_jpg.rf.f8055c880ebd2b90e298bd5cd07b5a0d.jpg</filename>
+	<path>658af519-5290-4ae5-8dd6-694bab9aa458___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_848765390_1_1080x720_nissan-terrano-xl-d-plus-2014-diesel-coimbatore_jpg.rf.f8055c880ebd2b90e298bd5cd07b5a0d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>224</xmin>
+			<xmax>349</xmax>
+			<ymin>453</ymin>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+</annotation>

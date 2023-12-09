@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>6bf2730d-82bf-43ac-8802-b61315d85b96___2017-Skoda-Octavia-rear-high-revealed-for-India-images-jpg_jpeg.rf.aa991178d7caf539063528bfc0204150.jpg</filename>
+	<path>6bf2730d-82bf-43ac-8802-b61315d85b96___2017-Skoda-Octavia-rear-high-revealed-for-India-images-jpg_jpeg.rf.aa991178d7caf539063528bfc0204150.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>104</xmin>
+			<xmax>260</xmax>
+			<ymin>239</ymin>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

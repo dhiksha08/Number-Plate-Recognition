@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>b266759c-f9e9-47c1-9042-4c7aef7d441d___1711769d1514801394t-toyota-innova-crysta-2-4-gx-ownership-review-edit-10-000-km-service-done-vs-jpg_jpeg.rf.7e4915efc0a547a315874d2df241e180.jpg</filename>
+	<path>b266759c-f9e9-47c1-9042-4c7aef7d441d___1711769d1514801394t-toyota-innova-crysta-2-4-gx-ownership-review-edit-10-000-km-service-done-vs-jpg_jpeg.rf.7e4915efc0a547a315874d2df241e180.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>304</width>
+		<height>248</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>126</xmin>
+			<xmax>186</xmax>
+			<ymin>121</ymin>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

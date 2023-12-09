@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ed6ee171-691a-4563-a79d-4f47d8ce9f85___Maruti-Suzuki-SCross-Exterior-80675-jpg_jpeg.rf.3deedfafa20c64c60912c3b3ae1aa473.jpg</filename>
+	<path>ed6ee171-691a-4563-a79d-4f47d8ce9f85___Maruti-Suzuki-SCross-Exterior-80675-jpg_jpeg.rf.3deedfafa20c64c60912c3b3ae1aa473.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>123</xmin>
+			<xmax>403</xmax>
+			<ymin>259</ymin>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

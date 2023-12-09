@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>b117ba53-d563-49c2-806b-343666616815___new_Maruti-Suzuki-recalls-75419-Baleno-cars-1961-DZire-cars-only-AGS-variant-Motown-India-Bureau-2-810-jpg_jpeg.rf.3ec275a554bf5cc3df27ff4bf178a2ad.jpg</filename>
+	<path>b117ba53-d563-49c2-806b-343666616815___new_Maruti-Suzuki-recalls-75419-Baleno-cars-1961-DZire-cars-only-AGS-variant-Motown-India-Bureau-2-810-jpg_jpeg.rf.3ec275a554bf5cc3df27ff4bf178a2ad.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>317</width>
+		<height>215</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>119</xmin>
+			<xmax>217</xmax>
+			<ymin>115</ymin>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

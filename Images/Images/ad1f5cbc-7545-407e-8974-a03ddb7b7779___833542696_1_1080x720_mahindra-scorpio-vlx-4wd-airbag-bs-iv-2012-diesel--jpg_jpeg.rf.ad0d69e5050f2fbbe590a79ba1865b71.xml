@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ad1f5cbc-7545-407e-8974-a03ddb7b7779___833542696_1_1080x720_mahindra-scorpio-vlx-4wd-airbag-bs-iv-2012-diesel--jpg_jpeg.rf.ad0d69e5050f2fbbe590a79ba1865b71.jpg</filename>
+	<path>ad1f5cbc-7545-407e-8974-a03ddb7b7779___833542696_1_1080x720_mahindra-scorpio-vlx-4wd-airbag-bs-iv-2012-diesel--jpg_jpeg.rf.ad0d69e5050f2fbbe590a79ba1865b71.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>412</xmin>
+			<xmax>595</xmax>
+			<ymin>419</ymin>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

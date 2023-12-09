@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>8dbb3ea7-8512-49e4-9ede-d4647e3b7dd2___158712081_5_1000x700_toyota-innova-v-2010-7seat-life-tax-kerala_rev001-jpg_jpeg.rf.edd7dcf2a6d4e6c18dbee3de3252c22e.jpg</filename>
+	<path>8dbb3ea7-8512-49e4-9ede-d4647e3b7dd2___158712081_5_1000x700_toyota-innova-v-2010-7seat-life-tax-kerala_rev001-jpg_jpeg.rf.edd7dcf2a6d4e6c18dbee3de3252c22e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>462</xmin>
+			<xmax>567</xmax>
+			<ymin>287</ymin>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

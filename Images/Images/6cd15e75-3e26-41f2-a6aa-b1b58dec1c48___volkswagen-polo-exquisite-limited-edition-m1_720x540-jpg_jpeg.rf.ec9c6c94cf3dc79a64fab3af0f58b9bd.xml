@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>6cd15e75-3e26-41f2-a6aa-b1b58dec1c48___volkswagen-polo-exquisite-limited-edition-m1_720x540-jpg_jpeg.rf.ec9c6c94cf3dc79a64fab3af0f58b9bd.jpg</filename>
+	<path>6cd15e75-3e26-41f2-a6aa-b1b58dec1c48___volkswagen-polo-exquisite-limited-edition-m1_720x540-jpg_jpeg.rf.ec9c6c94cf3dc79a64fab3af0f58b9bd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>654</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>92</xmax>
+			<ymin>249</ymin>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

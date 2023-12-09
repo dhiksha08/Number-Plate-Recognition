@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3fd93f90-f778-4f14-8b0f-67dd0be88a06___561644d1308248087-beware-fake-registration-numbers-imported-cars-proof-pg-3-257491_10150223034216705_685851704_7325894_6829197_o-jpg_jpeg.rf.e1141de36baacb48179e962a538d80c8.jpg</filename>
+	<path>3fd93f90-f778-4f14-8b0f-67dd0be88a06___561644d1308248087-beware-fake-registration-numbers-imported-cars-proof-pg-3-257491_10150223034216705_685851704_7325894_6829197_o-jpg_jpeg.rf.e1141de36baacb48179e962a538d80c8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>403</width>
+		<height>444</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>76</xmin>
+			<xmax>186</xmax>
+			<ymin>197</ymin>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

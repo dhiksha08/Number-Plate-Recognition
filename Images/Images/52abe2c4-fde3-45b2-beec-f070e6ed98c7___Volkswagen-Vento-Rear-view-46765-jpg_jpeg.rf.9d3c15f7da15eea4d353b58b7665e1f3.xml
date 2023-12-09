@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>52abe2c4-fde3-45b2-beec-f070e6ed98c7___Volkswagen-Vento-Rear-view-46765-jpg_jpeg.rf.9d3c15f7da15eea4d353b58b7665e1f3.jpg</filename>
+	<path>52abe2c4-fde3-45b2-beec-f070e6ed98c7___Volkswagen-Vento-Rear-view-46765-jpg_jpeg.rf.9d3c15f7da15eea4d353b58b7665e1f3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>252</xmin>
+			<xmax>367</xmax>
+			<ymin>202</ymin>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

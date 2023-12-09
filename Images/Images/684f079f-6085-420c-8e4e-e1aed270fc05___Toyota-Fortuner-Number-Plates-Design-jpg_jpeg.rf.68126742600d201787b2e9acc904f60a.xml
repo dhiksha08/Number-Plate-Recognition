@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>684f079f-6085-420c-8e4e-e1aed270fc05___Toyota-Fortuner-Number-Plates-Design-jpg_jpeg.rf.68126742600d201787b2e9acc904f60a.jpg</filename>
+	<path>684f079f-6085-420c-8e4e-e1aed270fc05___Toyota-Fortuner-Number-Plates-Design-jpg_jpeg.rf.68126742600d201787b2e9acc904f60a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1250</width>
+		<height>703</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>536</xmin>
+			<xmax>783</xmax>
+			<ymin>371</ymin>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

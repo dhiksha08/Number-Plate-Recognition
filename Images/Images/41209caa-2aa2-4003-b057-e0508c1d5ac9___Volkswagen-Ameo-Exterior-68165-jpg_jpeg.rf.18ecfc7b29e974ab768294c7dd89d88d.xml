@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>41209caa-2aa2-4003-b057-e0508c1d5ac9___Volkswagen-Ameo-Exterior-68165-jpg_jpeg.rf.18ecfc7b29e974ab768294c7dd89d88d.jpg</filename>
+	<path>41209caa-2aa2-4003-b057-e0508c1d5ac9___Volkswagen-Ameo-Exterior-68165-jpg_jpeg.rf.18ecfc7b29e974ab768294c7dd89d88d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>200</xmin>
+			<xmax>272</xmax>
+			<ymin>197</ymin>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

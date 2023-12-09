@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>acd85f93-544d-494e-b2f3-2d445937bb0b___new_1431956d1446017445-number-plates-merchandise-canvas-ink-gurgaon-edit-closed-thumb_img_4418_1024-jpg_jpeg.rf.b524a68633f73bd18523322099c4636f.jpg</filename>
+	<path>acd85f93-544d-494e-b2f3-2d445937bb0b___new_1431956d1446017445-number-plates-merchandise-canvas-ink-gurgaon-edit-closed-thumb_img_4418_1024-jpg_jpeg.rf.b524a68633f73bd18523322099c4636f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>130</xmin>
+			<xmax>396</xmax>
+			<ymin>130</ymin>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

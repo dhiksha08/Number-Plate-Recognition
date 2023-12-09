@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3febea0e-53c0-4b30-880c-3061458b93ce___Maruti-Vitara-Brezza-rear-end-full-review-jpg_jpeg.rf.5be787847a2e4b3f02af4aaf4ed0ec0c.jpg</filename>
+	<path>3febea0e-53c0-4b30-880c-3061458b93ce___Maruti-Vitara-Brezza-rear-end-full-review-jpg_jpeg.rf.5be787847a2e4b3f02af4aaf4ed0ec0c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>344</xmin>
+			<xmax>578</xmax>
+			<ymin>190</ymin>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

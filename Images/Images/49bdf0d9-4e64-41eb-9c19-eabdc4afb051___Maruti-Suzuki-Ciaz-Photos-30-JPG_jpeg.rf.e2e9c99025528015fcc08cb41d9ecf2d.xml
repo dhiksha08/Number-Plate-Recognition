@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>49bdf0d9-4e64-41eb-9c19-eabdc4afb051___Maruti-Suzuki-Ciaz-Photos-30-JPG_jpeg.rf.e2e9c99025528015fcc08cb41d9ecf2d.jpg</filename>
+	<path>49bdf0d9-4e64-41eb-9c19-eabdc4afb051___Maruti-Suzuki-Ciaz-Photos-30-JPG_jpeg.rf.e2e9c99025528015fcc08cb41d9ecf2d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>197</xmin>
+			<xmax>350</xmax>
+			<ymin>135</ymin>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

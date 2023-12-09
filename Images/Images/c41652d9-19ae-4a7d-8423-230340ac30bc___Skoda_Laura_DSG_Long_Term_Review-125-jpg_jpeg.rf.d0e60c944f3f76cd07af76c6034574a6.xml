@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>c41652d9-19ae-4a7d-8423-230340ac30bc___Skoda_Laura_DSG_Long_Term_Review-125-jpg_jpeg.rf.d0e60c944f3f76cd07af76c6034574a6.jpg</filename>
+	<path>c41652d9-19ae-4a7d-8423-230340ac30bc___Skoda_Laura_DSG_Long_Term_Review-125-jpg_jpeg.rf.d0e60c944f3f76cd07af76c6034574a6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>685</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>394</xmin>
+			<xmax>595</xmax>
+			<ymin>449</ymin>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>41de2ad0-3785-488e-9f1f-75b76f446cc7___Maruti-Alto-K10-Photos-2-jpg_jpeg.rf.e2309413df2f9ad8b6ce83048ced2b80.jpg</filename>
+	<path>41de2ad0-3785-488e-9f1f-75b76f446cc7___Maruti-Alto-K10-Photos-2-jpg_jpeg.rf.e2309413df2f9ad8b6ce83048ced2b80.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>127</xmin>
+			<xmax>313</xmax>
+			<ymin>300</ymin>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

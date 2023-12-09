@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>31847e78-6696-4dc2-be08-cb37d512c576___2010_Maruti_WagonR_Review-jpg_jpeg.rf.9ce8bb248a6fd4106a54dd88722c78b4.jpg</filename>
+	<path>31847e78-6696-4dc2-be08-cb37d512c576___2010_Maruti_WagonR_Review-jpg_jpeg.rf.9ce8bb248a6fd4106a54dd88722c78b4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>409</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>24</xmin>
+			<xmax>161</xmax>
+			<ymin>267</ymin>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

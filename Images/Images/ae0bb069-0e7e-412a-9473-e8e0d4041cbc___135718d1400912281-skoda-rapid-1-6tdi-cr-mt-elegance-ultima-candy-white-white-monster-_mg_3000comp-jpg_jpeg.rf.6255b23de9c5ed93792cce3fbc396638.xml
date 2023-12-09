@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ae0bb069-0e7e-412a-9473-e8e0d4041cbc___135718d1400912281-skoda-rapid-1-6tdi-cr-mt-elegance-ultima-candy-white-white-monster-_mg_3000comp-jpg_jpeg.rf.6255b23de9c5ed93792cce3fbc396638.jpg</filename>
+	<path>ae0bb069-0e7e-412a-9473-e8e0d4041cbc___135718d1400912281-skoda-rapid-1-6tdi-cr-mt-elegance-ultima-candy-white-white-monster-_mg_3000comp-jpg_jpeg.rf.6255b23de9c5ed93792cce3fbc396638.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>339</xmin>
+			<xmax>427</xmax>
+			<ymin>187</ymin>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>a285cdf6-4640-41ee-b3f3-b721f334466f___Skoda-Octavia-RS-launched-in-India-3-jpg_jpeg.rf.14c27e461a69a98d451b2f9085a5fc04.jpg</filename>
+	<path>a285cdf6-4640-41ee-b3f3-b721f334466f___Skoda-Octavia-RS-launched-in-India-3-jpg_jpeg.rf.14c27e461a69a98d451b2f9085a5fc04.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>177</xmin>
+			<xmax>347</xmax>
+			<ymin>256</ymin>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

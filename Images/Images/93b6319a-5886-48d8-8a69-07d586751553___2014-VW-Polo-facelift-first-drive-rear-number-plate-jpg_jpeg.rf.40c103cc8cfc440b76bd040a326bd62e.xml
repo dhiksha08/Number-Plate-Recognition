@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>93b6319a-5886-48d8-8a69-07d586751553___2014-VW-Polo-facelift-first-drive-rear-number-plate-jpg_jpeg.rf.40c103cc8cfc440b76bd040a326bd62e.jpg</filename>
+	<path>93b6319a-5886-48d8-8a69-07d586751553___2014-VW-Polo-facelift-first-drive-rear-number-plate-jpg_jpeg.rf.40c103cc8cfc440b76bd040a326bd62e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>847</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>372</xmin>
+			<xmax>1019</xmax>
+			<ymin>311</ymin>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>

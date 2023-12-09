@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2153dfcb-5968-4bfc-86ba-7ee8ec2d25b1___163231d1425035435-skoda-rapid-tdi-remapped-code-6-tuning-ind-front-jpg_jpeg.rf.09f906678bf31b28f7c9212144870dca.jpg</filename>
+	<path>2153dfcb-5968-4bfc-86ba-7ee8ec2d25b1___163231d1425035435-skoda-rapid-tdi-remapped-code-6-tuning-ind-front-jpg_jpeg.rf.09f906678bf31b28f7c9212144870dca.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>730</width>
+		<height>563</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>62</xmin>
+			<xmax>243</xmax>
+			<ymin>358</ymin>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

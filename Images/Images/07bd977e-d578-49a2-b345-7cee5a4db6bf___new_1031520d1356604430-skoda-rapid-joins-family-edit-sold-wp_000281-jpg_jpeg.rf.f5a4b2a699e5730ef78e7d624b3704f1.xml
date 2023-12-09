@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>07bd977e-d578-49a2-b345-7cee5a4db6bf___new_1031520d1356604430-skoda-rapid-joins-family-edit-sold-wp_000281-jpg_jpeg.rf.f5a4b2a699e5730ef78e7d624b3704f1.jpg</filename>
+	<path>07bd977e-d578-49a2-b345-7cee5a4db6bf___new_1031520d1356604430-skoda-rapid-joins-family-edit-sold-wp_000281-jpg_jpeg.rf.f5a4b2a699e5730ef78e7d624b3704f1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>163</xmin>
+			<xmax>371</xmax>
+			<ymin>211</ymin>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

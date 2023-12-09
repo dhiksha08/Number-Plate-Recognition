@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>23d775eb-842f-4f57-ad7a-affafa21660a___215453-new-2016-maruti-ertiga-granite-grey-zdi-shvs-highway-champion-img_8168-jpg_jpeg.rf.37b2ba77beca97c9c571fee673777668.jpg</filename>
+	<path>23d775eb-842f-4f57-ad7a-affafa21660a___215453-new-2016-maruti-ertiga-granite-grey-zdi-shvs-highway-champion-img_8168-jpg_jpeg.rf.37b2ba77beca97c9c571fee673777668.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>547</width>
+		<height>546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>109</xmin>
+			<xmax>281</xmax>
+			<ymin>282</ymin>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

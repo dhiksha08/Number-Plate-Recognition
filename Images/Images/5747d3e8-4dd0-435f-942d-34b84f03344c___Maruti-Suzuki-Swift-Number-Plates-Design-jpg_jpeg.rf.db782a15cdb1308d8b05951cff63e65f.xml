@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>5747d3e8-4dd0-435f-942d-34b84f03344c___Maruti-Suzuki-Swift-Number-Plates-Design-jpg_jpeg.rf.db782a15cdb1308d8b05951cff63e65f.jpg</filename>
+	<path>5747d3e8-4dd0-435f-942d-34b84f03344c___Maruti-Suzuki-Swift-Number-Plates-Design-jpg_jpeg.rf.db782a15cdb1308d8b05951cff63e65f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>140</xmin>
+			<xmax>333</xmax>
+			<ymin>244</ymin>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>e719f39b-e8dd-4fe0-9a41-71123932a486___226676869_4_1000x700_maruti-suzuki-wagon-r-duo-petrol-120000-kms-2007-year-cars_rev001-jpg_jpeg.rf.99c6fb5ff004b6d8c1d588dbd59697fa.jpg</filename>
+	<path>e719f39b-e8dd-4fe0-9a41-71123932a486___226676869_4_1000x700_maruti-suzuki-wagon-r-duo-petrol-120000-kms-2007-year-cars_rev001-jpg_jpeg.rf.99c6fb5ff004b6d8c1d588dbd59697fa.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>414</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>139</xmin>
+			<xmax>286</xmax>
+			<ymin>212</ymin>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

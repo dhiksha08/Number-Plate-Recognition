@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>26cfb3dd-3731-4fd0-a6c2-c44e3ce7498a___used_cars_in_keralaused_bikes_in_keralaautomotive_news7-jpg_jpeg.rf.1a0c988e71dc7a190c172c942f2cc6e0.jpg</filename>
+	<path>26cfb3dd-3731-4fd0-a6c2-c44e3ce7498a___used_cars_in_keralaused_bikes_in_keralaautomotive_news7-jpg_jpeg.rf.1a0c988e71dc7a190c172c942f2cc6e0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>531</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>166</xmin>
+			<xmax>318</xmax>
+			<ymin>280</ymin>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

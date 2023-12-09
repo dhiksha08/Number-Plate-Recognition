@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>347c849b-6cfa-4edb-af1f-b29bdad25c4d___new_New-Volkswagen-Polo-jpg_jpeg.rf.d9fe386376c0e27c95199cf3f23ac2b0.jpg</filename>
+	<path>347c849b-6cfa-4edb-af1f-b29bdad25c4d___new_New-Volkswagen-Polo-jpg_jpeg.rf.d9fe386376c0e27c95199cf3f23ac2b0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>249</width>
+		<height>239</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>137</xmax>
+			<ymin>130</ymin>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

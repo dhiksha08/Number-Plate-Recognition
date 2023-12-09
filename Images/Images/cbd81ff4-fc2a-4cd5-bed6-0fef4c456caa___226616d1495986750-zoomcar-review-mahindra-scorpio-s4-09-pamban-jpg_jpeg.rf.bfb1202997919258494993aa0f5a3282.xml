@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>cbd81ff4-fc2a-4cd5-bed6-0fef4c456caa___226616d1495986750-zoomcar-review-mahindra-scorpio-s4-09-pamban-jpg_jpeg.rf.bfb1202997919258494993aa0f5a3282.jpg</filename>
+	<path>cbd81ff4-fc2a-4cd5-bed6-0fef4c456caa___226616d1495986750-zoomcar-review-mahindra-scorpio-s4-09-pamban-jpg_jpeg.rf.bfb1202997919258494993aa0f5a3282.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>2432</width>
+		<height>1368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>816</xmin>
+			<xmax>1088</xmax>
+			<ymin>734</ymin>
+			<ymax>844</ymax>
+		</bndbox>
+	</object>
+</annotation>

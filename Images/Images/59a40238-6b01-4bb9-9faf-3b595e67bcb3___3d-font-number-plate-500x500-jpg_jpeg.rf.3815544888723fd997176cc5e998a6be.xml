@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>59a40238-6b01-4bb9-9faf-3b595e67bcb3___3d-font-number-plate-500x500-jpg_jpeg.rf.3815544888723fd997176cc5e998a6be.jpg</filename>
+	<path>59a40238-6b01-4bb9-9faf-3b595e67bcb3___3d-font-number-plate-500x500-jpg_jpeg.rf.3815544888723fd997176cc5e998a6be.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>446</width>
+		<height>282</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>177</xmin>
+			<xmax>281</xmax>
+			<ymin>223</ymin>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

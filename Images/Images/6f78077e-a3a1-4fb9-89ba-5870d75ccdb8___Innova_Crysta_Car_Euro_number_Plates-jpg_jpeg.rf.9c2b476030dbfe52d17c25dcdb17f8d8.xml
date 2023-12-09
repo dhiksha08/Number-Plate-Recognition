@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>6f78077e-a3a1-4fb9-89ba-5870d75ccdb8___Innova_Crysta_Car_Euro_number_Plates-jpg_jpeg.rf.9c2b476030dbfe52d17c25dcdb17f8d8.jpg</filename>
+	<path>6f78077e-a3a1-4fb9-89ba-5870d75ccdb8___Innova_Crysta_Car_Euro_number_Plates-jpg_jpeg.rf.9c2b476030dbfe52d17c25dcdb17f8d8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>306</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>168</xmin>
+			<xmax>282</xmax>
+			<ymin>101</ymin>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

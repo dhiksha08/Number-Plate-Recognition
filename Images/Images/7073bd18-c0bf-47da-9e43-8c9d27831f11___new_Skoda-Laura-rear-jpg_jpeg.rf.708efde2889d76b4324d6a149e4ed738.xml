@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>7073bd18-c0bf-47da-9e43-8c9d27831f11___new_Skoda-Laura-rear-jpg_jpeg.rf.708efde2889d76b4324d6a149e4ed738.jpg</filename>
+	<path>7073bd18-c0bf-47da-9e43-8c9d27831f11___new_Skoda-Laura-rear-jpg_jpeg.rf.708efde2889d76b4324d6a149e4ed738.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>204</xmin>
+			<xmax>297</xmax>
+			<ymin>165</ymin>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

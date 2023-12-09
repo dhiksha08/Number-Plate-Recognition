@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bdad5f66-70ad-4241-9a62-bba1123c3486___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_1447945d1449508546t-my-nissan-terrano-85-ps-_img_000000_000000_jpg.rf.d0bc6b53b0536a32efa5041d3b78a3d0.jpg</filename>
+	<path>bdad5f66-70ad-4241-9a62-bba1123c3486___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_1447945d1449508546t-my-nissan-terrano-85-ps-_img_000000_000000_jpg.rf.d0bc6b53b0536a32efa5041d3b78a3d0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>802</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>398</xmin>
+			<xmax>466</xmax>
+			<ymin>276</ymin>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

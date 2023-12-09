@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>7506a48d-2c70-4b12-b300-463754bc7837___165979d1427773878-new-volkswagen-vento-2016-launched-india-vw-vento-facelift-rear-india-spotted-test-jpg_jpeg.rf.3f2a79ed48884bbe27658c6fcd8e8cac.jpg</filename>
+	<path>7506a48d-2c70-4b12-b300-463754bc7837___165979d1427773878-new-volkswagen-vento-2016-launched-india-vw-vento-facelift-rear-india-spotted-test-jpg_jpeg.rf.3f2a79ed48884bbe27658c6fcd8e8cac.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>315</xmin>
+			<xmax>535</xmax>
+			<ymin>259</ymin>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>f8a992cc-a1cc-4d68-88c1-bec1a46fc148___Honda-City-Number-Plates-Design-jpg_jpeg.rf.30ad591a9614858418428115cef7ad13.jpg</filename>
+	<path>f8a992cc-a1cc-4d68-88c1-bec1a46fc148___Honda-City-Number-Plates-Design-jpg_jpeg.rf.30ad591a9614858418428115cef7ad13.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>557</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>192</xmin>
+			<xmax>378</xmax>
+			<ymin>351</ymin>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

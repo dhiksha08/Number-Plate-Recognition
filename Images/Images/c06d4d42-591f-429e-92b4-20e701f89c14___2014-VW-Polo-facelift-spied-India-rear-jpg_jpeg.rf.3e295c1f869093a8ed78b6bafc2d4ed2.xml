@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>c06d4d42-591f-429e-92b4-20e701f89c14___2014-VW-Polo-facelift-spied-India-rear-jpg_jpeg.rf.3e295c1f869093a8ed78b6bafc2d4ed2.jpg</filename>
+	<path>c06d4d42-591f-429e-92b4-20e701f89c14___2014-VW-Polo-facelift-spied-India-rear-jpg_jpeg.rf.3e295c1f869093a8ed78b6bafc2d4ed2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License-Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>436</xmin>
+			<xmax>668</xmax>
+			<ymin>701</ymin>
+			<ymax>784</ymax>
+		</bndbox>
+	</object>
+</annotation>
